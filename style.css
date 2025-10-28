@@ -138,11 +138,11 @@ html, body{
     border-radius: 50%;
     padding: 4px;
     background: linear-gradient(45deg,
-    #f09433,
-    #e6683c,
-    #dc2743, 
-    #cc2366, 
-    #bc1888);
+    #B8FF00,
+    #9FD37B,
+    #8AB9A3,
+    #7A8897,
+    #606060);
 }
 .stories-avatar::before{
     content: '';
